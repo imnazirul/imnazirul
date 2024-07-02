@@ -1,4 +1,4 @@
-![Banner](https://github.com/nazirul/repositoryname/blob/main/path/to/banner.png)
+![Banner](https://github.com/nazirul/nazirul/blob/main/banner.png)
 
 # Hello, I'm Nazirul 👋
 
@@ -21,4 +21,4 @@ I'm a front-end developer and MERN stack developer with a passion for creating b
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nazirul)
-[![Twitter](https://
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/nazirul)
