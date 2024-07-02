@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<br><br>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
