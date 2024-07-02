@@ -1,7 +1,7 @@
 ![Banner](https://github.com/nazirul/nazirul/blob/main/banner.png)
 
 
-## 🚀 About Me
+## About Me
 ### Hello, I'm Nazirul 👋
 
 I'm a front-end developer and MERN stack developer with a passion for creating beautiful and functional web applications. Welcome to my GitHub profile!
