@@ -1,5 +1,9 @@
 <image src="https://github.com/imnazirul/imnazirul/blob/main/images/banner.png">
 
+## About Me
+
+#### 👋 Hi, I'm Nazirul, a passionate front-end and MERN stack developer with expertise in JavaScript, React Js, Tailwind CSS and building robust web applications. Dedicated to continuous learning and problem-solving, I enjoy turning ideas into efficient, user-friendly software solutions. Let's collaborate and innovate together!
+
 ## :chart_with_upwards_trend: My Stats
 
 <br />
