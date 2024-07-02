@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" height="300">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p>
 <br><br>
 
 ## :chart_with_upwards_trend: Current Stats
@@ -27,7 +27,3 @@
 <img src="https://github.com/imnazirul/imnazirul/blob/main/images/icons/express.png"/>
 <img src="https://github.com/imnazirul/imnazirul/blob/main/images/icons/mongo.png"/>
 </p><br/>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imnazirul&show_icons=true&locale=en" alt="imnazirul" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imnazirul&" alt="imnazirul" /></p>
