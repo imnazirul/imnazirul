@@ -1,5 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p>
-<br><br>
+<image src="https://github.com/imnazirul/imnazirul/blob/main/images/banner.png">
 
 ## :chart_with_upwards_trend: Current Stats
 
