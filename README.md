@@ -10,4 +10,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imnazirul&show_icons=true&locale=en" alt="imnazirul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imnazirul&" alt="imnazirul" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imnazirul&" alt="imnazirul" /></p>
