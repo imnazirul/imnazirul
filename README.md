@@ -1,14 +1,11 @@
 ![Banner](https://github.com/nazirul/nazirul/blob/main/banner.png)
 
-# Hello, I'm Nazirul 👋
+
+## 🚀 About Me
+### Hello, I'm Nazirul 👋
 
 I'm a front-end developer and MERN stack developer with a passion for creating beautiful and functional web applications. Welcome to my GitHub profile!
 
-## 🚀 About Me
-- 🌐 Website: [YourWebsite.com](https://yourwebsite.com)
-- 📝 Blog: [YourBlog.com](https://yourblog.com)
-- 💼 LinkedIn: [Nazirul](https://www.linkedin.com/in/nazirul)
-- 📧 Email: [nazirul@example.com](mailto:nazirul@example.com)
 
 ## 🛠️ Skills
 - **Front-End:** HTML, CSS, JavaScript, React, Redux
